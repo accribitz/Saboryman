@@ -2,7 +2,7 @@
 
 Move mouse cursor random 1 px every 1 minutes. Yeah, I'm saboryman !  
   
-In Japanese, white-collar salaried worker called "[Salaryman](https://en.wikipedia.org/wiki/Salaryman)".
+In Japanese, white-collar salaried workers called "[Salaryman](https://en.wikipedia.org/wiki/Salaryman)".
 "Lazy" is "Sabo-ru" in Japanese. So, "Lazy worker" is "Sabo-ru" + "Salaryman" = "Saboryman" in Japanese.  
   
 COVID-19 makes many japanese teleworkers, but given computer are monitored status of use by company.
