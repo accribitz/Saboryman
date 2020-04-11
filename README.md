@@ -34,6 +34,7 @@ Yeah, this program fakes mouse movement.
 ## References
 
 - https://www.arduino.cc/reference/en/language/functions/usb/mouse/
+- [Poor Man's Mouse Jiggler](https://youtu.be/QiMtad1T85I)
 
 ## License
 
